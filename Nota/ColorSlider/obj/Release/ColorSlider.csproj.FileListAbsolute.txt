@@ -1,0 +1,8 @@
+C:\Users\Fabrice\Documents\GitHub\ColorSlider\bin\Release\ColorSlider.dll
+C:\Users\Fabrice\Documents\GitHub\ColorSlider\bin\Release\ColorSlider.pdb
+C:\Users\Fabrice\Documents\GitHub\ColorSlider\obj\Release\ColorSlider.csprojAssemblyReference.cache
+C:\Users\Fabrice\Documents\GitHub\ColorSlider\obj\Release\ColorSlider.ColorSlider.resources
+C:\Users\Fabrice\Documents\GitHub\ColorSlider\obj\Release\ColorSlider.Properties.Resources.resources
+C:\Users\Fabrice\Documents\GitHub\ColorSlider\obj\Release\ColorSlider.csproj.GenerateResource.cache
+C:\Users\Fabrice\Documents\GitHub\ColorSlider\obj\Release\ColorSlider.dll
+C:\Users\Fabrice\Documents\GitHub\ColorSlider\obj\Release\ColorSlider.pdb
